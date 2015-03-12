@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lollipop Notification Demo</string>
+    <string name="btn_alt_action_label">Notify w/Alternation Action</string>
+    <string name="btn_cat_status_label">Notify Category: Status</string>
+    <string name="btn_cat_event_label">Notify Category: Event</string>
+    <string name="btn_clear_all_label">Clear all notifications</string>
+    <string name="btn_simple_legacy_label">Notify Simple as Legacy</string>
+    <string name="btn_simple_public">Notify Simple as Public</string>
+    <string name="btn_simple_secret">Notify Simple as Secret</string>
+    <string name="title_activity_sub">Lollipop Notification (Privacy) Demo</string>
+    <string name="alt_action_main_title">Notification w/Alternate Action</string>
+    <string name="alt_action_main_content">Touch the main notification to go back to the main activity.</string>
+    <string name="alt_action_title">Alternate Action: Start Sub-activity</string>
+    <string name="cat_status_title">Notification w/Category of STATUS</string>
+    <string name="cat_status_content">This is a notification marked as a STATUS category.</string>
+    <string name="cat_event_title">Notification w/Category of EVENT</string>
+    <string name="cat_event_content">This is a notification marked as a EVENT category w/high priority.</string>
+    <string name="priv_title_legacy">Legacy notification</string>
+    <string name="priv_content_legacy">This has no explicit visibility set</string>
+    <string name="priv_title_public">Public notification</string>
+    <string name="priv_content_public">This has visibility set to PUBLIC</string>
+    <string name="priv_title_secret">Secret notification</string>
+    <string name="priv_content_secret">This has visibility set to SECRET</string>
+
+</resources>
